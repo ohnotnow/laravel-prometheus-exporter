@@ -1,5 +1,5 @@
 {
-  "name": "futurematt/laravel-prometheus-exporter",
+  "name": "ohnotnow/laravel-prometheus-exporter",
   "description": "A prometheus exporter for Laravel",
   "license": "MIT",
   "authors": [
